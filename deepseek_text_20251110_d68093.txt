@@ -1,0 +1,8 @@
+
+### 2. requirements.txt
+```txt
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+ccxt>=4.0.0
+backtesting>=0.3.3
