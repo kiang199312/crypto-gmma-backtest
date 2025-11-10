@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 README# Cryptocurrency GMMA Strategy Backtest
+=======
+# Cryptocurrency GMMA Strategy Backtest
+>>>>>>> 0d81415cf69f1e96a83e2f73ddaa073505c75dee
 
 基于Guppy多重移动平均线(GMMA)的加密货币30分钟图表回测系统。
 
@@ -10,6 +14,7 @@ README# Cryptocurrency GMMA Strategy Backtest
 
 ## 安装依赖
 ```bash
+<<<<<<< HEAD
 pip install -r requirements.txt# Cryptocurrency GMMA Strategy Backtest
 
 基于Guppy多重移动平均线(GMMA)的加密货币30分钟图表回测系统。
@@ -23,3 +28,6 @@ pip install -r requirements.txt# Cryptocurrency GMMA Strategy Backtest
 ## 安装依赖
 ```bash
 pip install -r requirements.txt
+=======
+pip install -r requirements.txt
+>>>>>>> 0d81415cf69f1e96a83e2f73ddaa073505c75dee
